@@ -26,7 +26,7 @@ The analysis successfully grouped customers into nine distinct segments. The dis
 
 
 ![Demo Screenshot](segment.jpg)
-![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](output.png)
 
 ### Key Insights:
 * **High-Value Concentration**: A minority of customers in the 'Champions' and 'Loyal Customers' segments drive a majority of the revenue.
