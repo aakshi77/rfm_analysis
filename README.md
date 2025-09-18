@@ -95,6 +95,5 @@ To replicate this analysis, please follow these steps:
 
 ## 8. Author
 
-* **[Your Name]**
-* **LinkedIn**: [Link to your LinkedIn profile]
-* **GitHub**: [Link to your GitHub profile]
+* **Aakshi Bhaduri**
+
