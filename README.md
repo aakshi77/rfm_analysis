@@ -25,7 +25,8 @@ The primary goal of this project is to move away from a "one-size-fits-all" mark
 The analysis successfully grouped customers into nine distinct segments. The distribution below shows that while **Hibernating** customers form the largest group by count, a smaller group of **Champions** and **Loyal Customers** are the most critical for the business's revenue.
 
 
-*(To add your image, upload it to your GitHub repo and replace the tag above with `![Chart](filename.png)`)*
+![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](./assets/demo.png)
 
 ### Key Insights:
 * **High-Value Concentration**: A minority of customers in the 'Champions' and 'Loyal Customers' segments drive a majority of the revenue.
